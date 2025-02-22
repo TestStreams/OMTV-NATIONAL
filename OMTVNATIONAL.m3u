@@ -81,3 +81,5 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/ase
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="CBS East" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="National",CBS East
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="National",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
