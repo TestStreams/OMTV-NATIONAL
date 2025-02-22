@@ -71,7 +71,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 https://tvpass.org/live/AnimalPlanetEast/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="National",BBC America East
 https://tvpass.org/live/BBCAmericaEast/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
-#EXTINF:-1 tvg-id="BETEast.us" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="",BET East
+#EXTINF:-1 tvg-id="BETEast.us" tvg-logo="https://i.imgur.com/copIbc9.png" group-title="National",BET East
 https://streamer1.nexgen.bz/BET/index.m3u8
-#EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="",Bravo East
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="National",Bravo East
 https://streamer1.nexgen.bz/BRAVO/index.m3u8
