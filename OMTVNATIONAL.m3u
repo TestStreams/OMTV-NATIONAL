@@ -75,3 +75,5 @@ https://tvpass.org/live/BBCAmericaEast/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5Ym
 https://streamer1.nexgen.bz/BET/index.m3u8
 #EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="https://i.imgur.com/JmTIRLF.png" group-title="National",Bravo East
 https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Adult Swim East" tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms" group-title="National",Adult Swim East
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
