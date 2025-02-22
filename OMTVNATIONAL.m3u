@@ -141,11 +141,11 @@ http://fl2.moveonjoy.com/HBO_2/index.m3u8
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="National",HBO Family East
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="National",HGTV East
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HGTV_2010.png" group-title="National",HGTV East
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 tvg-id="History.us" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="National",History Channel
 http://cdn1host.online:2999/live/venomj/EmoOmOskzq/153.m3u8
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="National",Lifetime East
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://seeklogo.com/images/L/lifetime-tv-logo-F20AAEFC65-seeklogo.com.png" group-title="National",Lifetime East
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="Lifetime Movies Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="National",Lifetime Movies Network
 http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
@@ -154,7 +154,7 @@ http://74.48.44.156:1234/stream/asd/474/#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="M
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="National",MTV East
 https://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg" group-title="Live Channels",MTV2 East
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels",MTV2 East
 https://fl2.moveonjoy.com/MTV_2/index.m3u8 master.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="Live Channels",National Geographic East
 http://74.48.44.156:1234/stream/asd/354/master.m3u8
