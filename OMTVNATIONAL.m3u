@@ -65,5 +65,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://tvpass.org/live/AEEast/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
 #EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo.png" group-title="National",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Live Channels",AMC East
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="National",AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="National",Animal Planet
+https://tvpass.org/live/AnimalPlanetEast/hd/WGpkc1VZcDNtVUVhSjU1cmNtS0p0SkI3Qzc5YmZUdTFLMERxWFhaag==
